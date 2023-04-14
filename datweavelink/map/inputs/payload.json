@@ -1,0 +1,27 @@
+  [
+  {
+	"id" : 1,
+	"cname" : "gowri",
+	"age" : 10
+},
+{
+	"id" : 2,
+	"cname" : "SAI",
+	"age" : 20
+},
+{
+	"id" : 3,
+	"cname" : "SAM",
+	"age" : 41
+},
+{
+	"id" : 4,
+	"cname" : "SATYA",
+	"age" : 10
+},
+{
+	"id" : 5,
+	"cname" : "NAVEEN",
+	"age" : 60
+}
+]
